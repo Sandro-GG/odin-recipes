@@ -1,2 +1,2 @@
 # odin-recipes
-html practice
+list of some dishes and their recipes to practice some HTML
