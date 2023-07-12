@@ -1,0 +1,32 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, a, h2 {
+    color: darkkhaki;
+    background-color: hsl(0, 87%, 15%);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+a {
+    font-size: 26px;
+}
+
+p, div, ul li {
+    color: rgb(197, 225, 249);
+    background-color: brown;
+}
+
+img {
+
+    height: 300px;
+    width: 500px;
+}
+
+.homepage {
+    background-color: rgb(51, 14, 68);
+    color: azure;
+}
