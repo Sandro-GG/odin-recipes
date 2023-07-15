@@ -2,26 +2,23 @@ body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1, a, h2 {
+h1, #center, h2 {
     color: darkkhaki;
     background-color: hsl(0, 87%, 15%);
-}
-
-h1, h2 {
     text-align: center;
 }
 
-a {
+#center {
+    text-align: center;
     font-size: 26px;
 }
 
-p, div, ul li {
+p, div {
     color: rgb(197, 225, 249);
     background-color: brown;
 }
 
 img {
-
     height: 300px;
     width: 500px;
 }
