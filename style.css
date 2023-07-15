@@ -1,26 +1,46 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: #c87979;
 }
 
-h1, #center, h2 {
+.card {
+    width: 400px;
+    margin: 20px auto;
+}
+
+h1 {
+    background-color: hsl(0, 82%, 33%);
+    color: darkkhaki;
+    text-align: center;
+    padding: 10px;
+}
+
+#center, h2 {
     color: darkkhaki;
     background-color: hsl(0, 87%, 15%);
     text-align: center;
+    padding: 10px;
 }
 
 #center {
     text-align: center;
     font-size: 26px;
+    
+}
+
+a {
+    text-decoration: none;
 }
 
 p, div {
     color: rgb(197, 225, 249);
-    background-color: brown;
+    padding: 10px;
 }
 
 img {
     height: 300px;
     width: 500px;
+    margin: 5px auto;
 }
 
 .homepage {
